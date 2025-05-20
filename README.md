@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SherlockCodes221B
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Fullstack, Python
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Fullstack, Devops and Python
 - 🌱 I’m currently learning Deep Learning, Cloud Services
 - 💞️ I’m looking to collaborate on Machine learning, AI and cloud
 - 📫 How to reach me - Just DM
